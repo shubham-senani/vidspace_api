@@ -1,0 +1,12 @@
+# generally empty folder is not added to git while pushing to remote
+# to add empty folder to git, we need to add a file in that folder
+# this file can be named anything but it should be present in the folder
+# this file is generally named as .gitkeep
+# this file is not required to be pushed to remote
+# to ignore this file, we need to add this file name in .gitignore file
+# .gitkeep 
+# .gitignore
+# .git folder is hidden folder
+# .gitignore file is used to ignore files and folders while pushing to remote
+# .gitignore file is not required to be pushed to remote
+# .gitignore file is generally present in root folder of project
